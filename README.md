@@ -32,7 +32,6 @@ campus-energy-dashboard
 
 ### Prerequisites
 
-- Python 3.x
 - Libraries: pandas, matplotlib
 
 Install required libraries with:
