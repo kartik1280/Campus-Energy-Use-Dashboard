@@ -1,6 +1,6 @@
 # Campus-Energy-Use-Dashboard\
 
-screeenshots
+
 <img width="715" height="297" alt="{2101C649-BC83-46FD-91DB-B55283565954}" src="https://github.com/user-attachments/assets/a50f8554-35ae-4488-8ad7-f6cb67f0bbec" />
 
 <img width="198" height="228" alt="{366A66F2-953D-4D3C-9D1B-15C7439A3AED}" src="https://github.com/user-attachments/assets/c11b1c7f-5500-4492-b4a5-9b43ca5fa951" />
